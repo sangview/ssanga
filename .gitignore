@@ -1,0 +1,19 @@
+# Fichiers générés par le thème et votre système
+node_modules
+.DS_Store
+dist
+tmp
+
+# Fichiers générés par Hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Exécutables
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Verrou de modification
+/.hugo_build.lock
