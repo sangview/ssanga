@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://ssanga/ssanga.git"
+languageCode = "fr-fr"
+title = " admin@ssanga "
+theme = "terminal"
